@@ -17,6 +17,6 @@
  * NOTE, this file must be saved in UTF-8 encoding.
  */
 return array (
-  'Save' => '',
-  'Translation Editor' => '',
+  'Save' => 'บันทึก',
+  'Translation Editor' => 'ตัวช่วยเขียนการเปลี่ยนภาษา',
 );
